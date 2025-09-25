@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### 📝 My LeetCode Stats
+## 📝 LeetCode Progress
+- 25 September 2025: Solved 4 problems 
 
-<!--START_SECTION:leetcode-->
-<!--END_SECTION:leetcode-->
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
+
 
 -->
