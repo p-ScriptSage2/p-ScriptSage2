@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:leetcode-->
 <!--END_SECTION:leetcode-->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
+
 -->
