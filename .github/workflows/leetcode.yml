@@ -8,12 +8,21 @@ on:
 jobs:
   update-leetcode:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate LeetCode Stats
-        uses: KnlnKS/leetcode-stats@master
+        uses: KamalDGRT/leetcode-stats@v2
         with:
           LEETCODE_USERNAME: Princy_Sharma
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # This step commits the updated stats to your repo (e.g., README.md)
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update LeetCode stats" || echo "No changes to commit"
+          git push
