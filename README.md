@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## 📝 LeetCode Progress
--  18 October 2025: Solved 28 DSA problems 
+-  19 October 2025: Solved 29 DSA problems 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
 
