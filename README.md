@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## 📝 LeetCode Progress
+Welcome to my Leetcode Journey
 -  26 October 2025:  Today I Solved "String to Integer(atoi) " Problem- Med Level.
 -  27 October 2025: Today I solved "Longest Substring Without Repeating Characters" Problem -Med level.
 -  28 October 2025: Today I solved "Add Two Numbers" Problem -Med level..
