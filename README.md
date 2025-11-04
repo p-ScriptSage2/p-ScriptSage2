@@ -14,8 +14,7 @@ Welcome to my Leetcode Journey
 -  1 November 2025: Today I solved "3Sum" Problem -Med level.
 -  2 November 2025: Today I solved "4Sum" Problem -Med level.
 -  3 November 2025: Today I solved " Remove Nth node from end of list " Problem -Med level.
--  4 November 2025: Today I solved "1008. Construct Binary Search Tree from Preorder Traversal
- " Problem -Med level.
+-  4 November 2025: Today I solved "Construct Binary Search Tree from Preorder Traversal" Problem -Med level.
 
 -->
 
