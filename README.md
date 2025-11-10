@@ -20,7 +20,7 @@ Welcome to my Leetcode Journey
 -  7 November 2025: Today I solved " Combination Sum " Problem -Med level.
 -  8 November 2025: Today I solved " Combination Sum II " Problem -Med level.
 -  9 November 2025: Today I solved "Permutations" Problem -Med level.
--  10 November 2025: Today I solved " " Problem -Med level.
+-  10 November 2025: Today I solved " Rotate Image" Problem -Med level.
 
 -->
 
