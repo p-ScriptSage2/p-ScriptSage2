@@ -25,7 +25,7 @@ Welcome to my Leetcode Journey
 -  12 November 2025: Today I solved " Merge Intervals  " Problem -Med level.
 -  13 November 2025: Today I solved " Rotate List " Problem -Med level.
 -  14 November 2025: Today I solved " Unique Paths " Problem -Med level.
--  14 November 2025: Today I solved " Unique Paths " Problem -Med level.
+-  15 November 2025: Today I solved " Unique Paths " Problem -Med level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
