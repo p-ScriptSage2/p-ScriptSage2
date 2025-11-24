@@ -34,7 +34,7 @@ Welcome to my Leetcode Journey
 -  21 November 2025: Today I solved " Validate Binary Search Tree " Problem -Med level.
 -  22 November 2025: Today I solved " Binary Tree Level Order Traversal  " Problem -Med level.
 -  23 November 2025: Today I solved " Binary Tree Zigzag Level Order Traversal " Problem -Med level..
--  24 November 2025: Today I solved "  " Problem -Med level..
+-  24 November 2025: Today I solved "Construct Binary Tree from Preorder and Inorder  " Problem -Med level..
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
