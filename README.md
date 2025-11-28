@@ -38,7 +38,7 @@ Welcome to my Leetcode Journey
 -  25 November 2025: Today I solved " Construct Binary Tree from Inorder and Postorder Traversal" Problem -Med level.
 -  26 November 2025: Today I solved " Reverse Nodes in k-Group " Problem -Hard level.
 -  27 November 2025: Today I solved "Sudoku Solver " Problem -Hard level.
--  27 November 2025: Today I solved "Sudoku Solver " Problem -Hard level.
+-  28 November 2025: Today I solved "Sudoku Solver " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
