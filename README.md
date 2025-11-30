@@ -39,7 +39,7 @@ Welcome to my Leetcode Journey
 -  26 November 2025: Today I solved " Reverse Nodes in k-Group " Problem -Hard level.
 -  27 November 2025: Today I solved "Sudoku Solver " Problem -Hard level.
 -  28 November 2025: Today I solved " Trapping Rain Water " Problem -Hard level.
--  29 November 2025: Today I solved " N-Queens " Problem -Hard level..
+-  29 November 2025: Today I solved " N-Queens " Problem -Hard level.
 -  30 November 2025: Today I solved "  " Problem -Hard level.
 -->
 
