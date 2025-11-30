@@ -40,7 +40,7 @@ Welcome to my Leetcode Journey
 -  27 November 2025: Today I solved "Sudoku Solver " Problem -Hard level.
 -  28 November 2025: Today I solved " Trapping Rain Water " Problem -Hard level.
 -  29 November 2025: Today I solved " N-Queens " Problem -Hard level.
--  30 November 2025: Today I solved "  " Problem -Hard level.
+-  30 November 2025: Today I solved " Permutation Sequence " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
