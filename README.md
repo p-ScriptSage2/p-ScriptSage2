@@ -44,7 +44,7 @@ Welcome to my Leetcode Journey
 -  1 December 2025: Today I solved " Largest Rectangle in Histogram " Problem -Hard level.
 -  2 December 2025: Today I solved " Maximum Number of Non-Overlapping Substrings " Problem -Hard level.
 -  3 December 2025: Today I solved "Binary Tree Maximum Path Sum " Problem -Hard level.
--  4 December 2025: Today I solved "Binary Tree Maximum Path Sum " Problem -Hard level.
+-  4 December 2025: Today I solved " " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
