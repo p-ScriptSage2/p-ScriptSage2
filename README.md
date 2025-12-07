@@ -47,7 +47,7 @@ Welcome to my Leetcode Journey
 -  4 December 2025: Today I solved " Minimum Cost to Cut a Stick " Problem -Hard level.
 -  5 December 2025: Today I solved " Sliding Window Maximum " Problem -Hard level.
 -  6 December 2025: Today I solved " Maximum XOR With an Element From Array " Problem -Hard level.
--  6 December 2025: Today I solved " Maximum XOR With an Element From Array " Problem -Hard level.
+-  7 December 2025: Today I solved " Maximum XOR With an Element From Array " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
