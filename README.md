@@ -50,7 +50,7 @@ Welcome to my Leetcode Journey
 -  7 December 2025: Today I solved " Find Median from Data Stream " Problem -Hard level.
 -  8 December 2025: Today I solved " Serialize and Deserialize Binary Tree " Problem -Hard level.
 -  9 December 2025: Today I solved " Maximum Sum BST in Binary Tree " Problem -Hard level.
--  10 December 2025: Today I solved " Maximum Sum BST in Binary Tree " Problem -Hard level.
+-  10 December 2025: Today I solved "  " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
