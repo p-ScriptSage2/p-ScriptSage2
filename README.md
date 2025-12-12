@@ -52,7 +52,7 @@ Welcome to my Leetcode Journey
 -  9 December 2025: Today I solved " Maximum Sum BST in Binary Tree " Problem -Hard level.
 -  10 December 2025: Today I solved " LFU Cache" Problem -Hard level.
 -  11 December 2025: Today I solved " Reverse Pairs " Problem -Hard level.
--  12 December 2025: Today I solved "  " Problem -Hard level.
+-  12 December 2025: Today I solved " Median of Two Sorted Arrays " Problem -Hard level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
