@@ -58,7 +58,7 @@ Welcome to my Leetcode Journey
 -  16 December 2025: Today I solved " Flatten Binary Tree to Linked List " Problem -Hard level.
 -  17 December 2025: Today I solved " Populating Next Right Pointers in Each Node " Problem -Medium level.
 -  19 December 2025: Today I solved " Pascal's Triangle " Problem -Easy level.
--  20 December 2025: Today I solved " Pascal's Triangle " Problem -Easy level.
+-  20 December 2025: Today I solved "  " Problem -Easy level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
