@@ -59,7 +59,7 @@ Welcome to my Leetcode Journey
 -  17 December 2025: Today I solved " Populating Next Right Pointers in Each Node " Problem -Medium level.
 -  19 December 2025: Today I solved " Pascal's Triangle " Problem -Easy level.
 -  20 December 2025: Today I solved " Longest Consecutive Sequence " Problem -Med level.
--  20 December 2025: Today I solved " Longest Consecutive Sequence " Problem -Med level.
+-  21 December 2025: Today I solved " Longest Consecutive Sequence " Problem -Med level.
 -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
