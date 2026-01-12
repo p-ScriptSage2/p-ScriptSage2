@@ -1,5 +1,7 @@
-## Hi there 👋
-## 📝 LeetCode Progress
+Hi There!
+I am Princy Sharma!
+I am a Data Scientist !
+
 
 <!--
 
@@ -61,9 +63,9 @@ Welcome to my Leetcode Journey
 -  20 December 2025: Today I solved " Longest Consecutive Sequence " Problem -Med level.
 -  21 December 2025: Today I solved " Best Time to Buy and Sell Stock " Problem -Easy level.
 -  22 December 2025: Today I solved " Set Mismatch " Problem -Easy level.
--->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Princy_Sharma?theme=dark)](https://leetcode.com/Princy_Sharma/)-->
 
 
 
